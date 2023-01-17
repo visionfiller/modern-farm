@@ -45,7 +45,7 @@ export const addPlant = (seed) => {
 }
 
 export const usePlants = () => {
-    const plantAdded = addPlant()
-    return plantAdded
+ 
+    return plantsInField
 }
 

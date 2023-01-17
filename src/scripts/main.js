@@ -28,6 +28,7 @@ console.log(yearlyPlan)
 
 
 
+/*
 const cornSeed = createCorn()
 console.log(cornSeed)
 
@@ -54,10 +55,11 @@ console.log(wheatSeed)
 
 
 
-const addSunflower = addPlant(sunflowerSeed)
-const addWheat = addPlant(wheatSeed)
+//const addSunflower = addPlant(sunflowerSeed)
+//const addWheat = addPlant(wheatSeed)
 
 //console.log(test)
+*/
 
 const seedsPlanted = plantSeeds(yearlyPlan)
 const growingPlants = usePlants()
